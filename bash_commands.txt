@@ -6,5 +6,5 @@ Create a new file called “cookies.txt” - $ touch cookies.txt
 Create a new folder called “recipes” - $ mkdir recipes
 Delete a file - rm <filename>
 Stage a file in Git - git add
-Commit a file in Git - git commit
+Commit a file in Git - git commit -m "message"
 Push the file to the Git remote’s origin, on the master branch. - git push origin master
