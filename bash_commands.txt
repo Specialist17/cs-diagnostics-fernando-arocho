@@ -1,0 +1,10 @@
+
+Change directory - $ cd
+List items in current directory - $ ls
+Print working directory - $ pwd
+Create a new file called “cookies.txt” - $ touch cookies.txt
+Create a new folder called “recipes” - $ mkdir recipes
+Delete a file - rm <filename>
+Stage a file in Git - git add
+Commit a file in Git - git commit
+Push the file to the Git remote’s origin, on the master branch. - git push origin master
