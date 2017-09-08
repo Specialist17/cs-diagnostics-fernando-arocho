@@ -1,0 +1,3 @@
+a) What is the difference between an interpreted and a compiled language?
+b) What are the strengths and weaknesses of each?
+c) Give an example of each, and list a situation for each where a developer should choose one over the other.

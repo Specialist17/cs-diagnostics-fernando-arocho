@@ -1,0 +1,4 @@
+Explain the concept of an algorithm in terms that a young child (6-8 years old) could understand.
+
+Algorithms are like a recipe. A series of steps you follow to get a specific result.
+You can find a ways to get to the result faster by making the algorithm simpler.
