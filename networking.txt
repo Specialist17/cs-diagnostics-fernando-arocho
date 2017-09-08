@@ -1,0 +1,20 @@
+Explain everything that happens from the moment you type in a web address
+to the when the website appears in front of the user.
+
+Step 1: User types in address and the client sends the information through an a Request.
+This request will have headers that contain the type of information the user is requesting.
+It could be that the user is requesting to GET an image or to tell the server that the user wants
+to POST something to a database.
+
+If it's a secure network, it will connect to the server through HTTPS, meaning there's an SSL
+certificate in that server.
+
+After the server receives the request, it disconnects from the client while it looks for the
+information that was requested. After it finishes, it sends back the information in a response.
+This response contains the headers that tell the client the type of response it got.
+It can have information like if the file was an image, a html file, etc.
+
+I believe that the requests are sent in a series of data packets, like small boxes of information
+that have a sender and an address for the receiver.
+
+Not sure what DNS does and don't remember what TCP was
